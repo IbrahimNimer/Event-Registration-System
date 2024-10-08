@@ -12,6 +12,9 @@ namespace Event_Registration_System
 
 
             builder.Services.AddControllers();
+             
+
+
 
 
             // Add services to the container.
